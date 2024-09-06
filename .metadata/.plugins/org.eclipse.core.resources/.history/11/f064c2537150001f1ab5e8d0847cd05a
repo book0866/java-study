@@ -1,0 +1,7 @@
+package shop;
+
+public interface Order {
+	
+	public void ShopOrder();
+	
+}

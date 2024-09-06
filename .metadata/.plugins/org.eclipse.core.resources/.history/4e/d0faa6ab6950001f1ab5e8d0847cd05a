@@ -1,0 +1,18 @@
+package shop;
+
+public interface Order {
+	
+	public void startOrder(); // 1. 상품 주문하기
+	
+	public void CustomerName(); // 고객명
+	
+	public void TradeName(); // 제품명
+	
+	public void TradeAmount(); // 제품 수량
+	
+	public void TradePrice(); // 제품 가격
+	
+	
+	
+
+}
